@@ -3,7 +3,7 @@ pages << {
  "page_type" => "test",
  "method" => "POST",
  "url" => "https://webapo-info.lauer-fischer.de/LTO40.160101/ArtikelDetail.svc/json/GetSingleArtikelDeutsch",
- "effective_url" => null,
+ "effective_url" => nil,
  "headers" => {
   "Accept": "application/json, text/plain, */*",
   "Content-Type": "application/json",
